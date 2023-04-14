@@ -13,11 +13,11 @@
 
 ### Navbar
 
-The navbar features a hamburger menu that can be toggled to reveal the navigation links. The navigation links include Home, About Us, Gallery, Reservation, Services, and Contact.
+- The navbar features a hamburger menu that can be toggled to reveal the navigation links. The navigation links include Home, About Us, Gallery, Reservation, Services, and Contact.
 
 ### Header
 
-The header features a brand logo and name, along with a banner that displays a welcome message and a call-to-action button for reservations.
+- The header features a brand logo and name, along with a banner that displays a welcome message and a call-to-action button for reservations.
 
 ### About Us
 
