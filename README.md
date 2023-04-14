@@ -2,6 +2,9 @@
 
 - This is a sample HTML and Sass restaurant landing page website. It features a simple and elegant design that highlights the restaurant's brand and services. The website includes a navbar, header, about us, and gallery sections.
 
+![alt text](restaurant-website.png "Ecommerce Landing Page for a Restaurant")
+
+
 
 
 
